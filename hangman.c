@@ -30,5 +30,5 @@ int main() {
   char guess = get_input();
   printf("Your guess is: %c\n", guess);
 
-  return 0;
+  
 }
